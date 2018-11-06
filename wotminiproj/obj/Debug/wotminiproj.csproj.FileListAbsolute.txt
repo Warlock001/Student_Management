@@ -1,0 +1,40 @@
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\csc.exe
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\vbc.exe
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\VBCSCompiler.exe
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.dll.config
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.pdb
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.csprojResolveAssemblyReference.cache
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.dll
+c:\users\warlock\documents\visual studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.pdb
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\csc.exe
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\vbc.exe
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.dll.config
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\wotminiproj.pdb
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.csprojResolveAssemblyReference.cache
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.dll
+C:\Users\Alfin William\Documents\Visual Studio 2015\Projects\wotminiproj\wotminiproj\obj\Debug\wotminiproj.pdb
